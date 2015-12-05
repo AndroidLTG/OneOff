@@ -5,4 +5,5 @@
     <color name="colorAccent">#FF4081</color>
     <color name="background_material_light_1">#000000</color>
     <color name="background_material_light_2">#000000</color>
+    <color name="blue">#2789ec</color>
 </resources>

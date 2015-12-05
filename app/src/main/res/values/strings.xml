@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">OneOff</string>
+    <string name="app_policy">Privacy Policy</string>
+    <string name="app_menu">Permission we collect:\n</string>
+    <string name="app_no">No, thank</string>
+    <string name="app_accept">I agree</string>
+    <string name="app_policy_name">Lock the screen: </string>
+    <string name="app_content">Control when your device locks, requiring that you re-enter your password</string>
+    <string name="app_privacy_policy">One Off is software help user protect your power button.\nTo do that, we need the user accept a permission to protect power button: </string>
 </resources>
